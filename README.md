@@ -1,6 +1,6 @@
 ##  Olá, meu nome é <strong>Gustavo!</strong>
 
->Atualmente estou cursando Ciência da Computação na UNINOVE. Estou estudando <strong> Java </strong> em busca de uma recolocação no mercado acompanhada de uma oportunidade para aprender e alavancar minha carreira profissional com <strong> Quality Assurance </strong>; Hoje, trabalho com Segurança da Informação e Governança de TI na Gol Linhas Aéreas, exercendo funções com auditorias e segmentando a área de SI dentro da companhia.
+>Atualmente estou cursando Ciência da Computação na UNINOVE. Estou estudando <strong> Java </strong> em busca de uma recolocação no mercado acompanhada de uma oportunidade para aprender e alavancar minha carreira profissional com <strong> Quality Assurance. </strong> Hoje, trabalho com Segurança da Informação e Governança de TI na Gol Linhas Aéreas, exercendo funções com auditorias e segmentando a área de SI dentro da companhia.
 
 Minhas tecnologias em estudos são:
 
