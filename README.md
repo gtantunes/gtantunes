@@ -5,7 +5,7 @@
 Minhas tecnologias em estudos são:
 
 ⚙️Java<br>
-🤖Cypress | Selenium | RestAssured
+Selenium | RestAssured
 ----
 
 ## 🚀 Minhas Skills
