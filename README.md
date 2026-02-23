@@ -1,6 +1,7 @@
 ##  Olá, meu nome é <strong>Gustavo!</strong>
 
->Atualmente estou formado em Ciência da Computação na UNINOVE. Estou estudando <strong> Java </strong> em busca de uma recolocação no mercado acompanhada de uma oportunidade para aprender e alavancar minha carreira profissional com <strong> Quality Assurance. </strong> Trabalhei com Segurança da Informação e Governança de TI na Gol Linhas Aéreas, exercendo funções com auditorias e segmentando a área de SI dentro da companhia.
+>Formado em Ciência da Computação na UNINOVE. 
+Estou estudando <strong> Java </strong>, recém-matriculado na Impacta em busca de uma transição de carreira para <strong> Quality Assurance ou Desenvolvimento. </strong> Trabalhei com Segurança da Informação e Governança de TI na Gol Linhas Aéreas, exercendo funções com auditorias e segmentando a área de SI dentro da companhia, e atualmente trabalho na área de <strong> Produtos </strong>, onde atuo como <strong> Partner da Atlassian </strong> prestando suporte pré e pós venda de serviços e produtos como Jira, Confluence, Trello, entre outros.
 
 Minhas tecnologias em estudos são:
 
