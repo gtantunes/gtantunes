@@ -1,19 +1,10 @@
 ##  Olá, meu nome é <strong>Gustavo!</strong>
 
->Formado em Ciência da Computação na UNINOVE e buscando minha primeira oportunidade como desenvolvedor Java/Python. 
-
+>Formado em Ciência da Computação na UNINOVE e buscando minha primeira oportunidade como desenvolvedor Java/Python.
+>
 Recém-matriculado na <strong> Impacta Tecnologia </strong> em busca de uma transição de carreira para <strong> Desenvolvimento.</strong>
 ><strong> Trabalhei com Segurança da Informação e Governança de TI na Gol Linhas Aéreas</strong>, exercendo funções com auditorias e segmentando a área de SI dentro da companhia, e atualmente trabalho na área de <strong> Produtos </strong>, onde atuo como <strong> Partner da Atlassian </strong> prestando suporte pré e pós venda de serviços e produtos como <strong> Jira</strong>, <strong> Confluence</strong>, <strong> Trello</strong> e <strong> BitBucket</strong>. Sempre realizando automações dentro dos produtos conforme solicitação de customers, implementação e integração de CI/CD quando necessário, e criação de workflows personalizados.
 
-Minhas tecnologias em estudos são:
-
-⚙️Java
-
-⚙️Python
-
-⚙️C#
-
-⚙️JavaScript
 
 ## 🚀 Minhas Skills
 
