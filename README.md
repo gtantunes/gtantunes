@@ -8,10 +8,12 @@ Trabalhei com Segurança da Informação e Governança de TI na Gol Linhas Aére
 >Atualmente trabalho na área de <strong> Produtos</strong>, onde atuo como <strong> Atlassian's Partner</strong> prestando suporte pré e pós venda de serviços e produtos como Jira, Confluence, Trello e BitBucket. Sempre realizando automações dentro dos produtos conforme solicitação de customers, implementação e integração de CI/CD quando necessário, e criação de workflows personalizados.
 
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,windows,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,windows,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,docker,dotnet,bitbucket,linux)](https://skillicons.dev)
+## 🚀 Tools
+
+[![My Skills](https://skillicons.dev/icons?i=postman,selenium,docker,dotnet,bitbucket,linux,vscode,idea)](https://skillicons.dev)
