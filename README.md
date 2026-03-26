@@ -14,4 +14,4 @@ Trabalhei com Segurança da Informação e Governança de TI na Gol Linhas Aére
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,windows,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,docker,dotnet,bitbucket,jira,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,docker,dotnet,bitbucket,linux)](https://skillicons.dev)
